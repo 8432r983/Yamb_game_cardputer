@@ -2,7 +2,7 @@
 
 A cool little game to install on your cardputer <br />
 
-Choose numbers 5-9 to select with how many dice you want to play <br />
+Choose numbers 5-9 to select with how many dice you want to play with <br />
 Then functional keys are:<br />
 h - help menu<br />
 1-9 - to select or deselect the wanted dice<br />
