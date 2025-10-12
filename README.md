@@ -2,6 +2,15 @@
 
 A cool little game to install on your cardputer <br />
 
+*Disclaimer* : If you want the game to have dice rolling sounds and <br />
+to make sounds when you unselect all the die you have to mp3 files <br />
+to the sd card and name them "dice_rolling.mp3" and "magical.mp3" <br />
+
+I recommend using these: <br />
+(Shoutout to the creators of those sounds) <br />
+dice sound - https://pixabay.com/sound-effects/dice-142528/ <br />
+magical sound - https://pixabay.com/sound-effects/magical-twinkle-242245/ <br />
+
 Choose numbers 5-9 to select with how many dice you want to play with <br />
 Then functional keys are:<br />
 h - help menu<br />
