@@ -1,3 +1,5 @@
+### Yamb for the M5Stacks Cardputer
+
 A cool little game to install on your cardputer
 
 Choose numbers 5-9 to select with how many dice you want to play
