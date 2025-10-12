@@ -3,7 +3,7 @@
 A cool little game to install on your cardputer <br />
 
 *Disclaimer* : If you want the game to have dice rolling sounds and <br />
-to make sounds when you unselect all the die you have to mp3 files <br />
+to make sounds when you unselect all the die you have to add mp3 files <br />
 to the sd card and name them "dice_rolling.mp3" and "magical.mp3" <br />
 
 I recommend using these: <br />
